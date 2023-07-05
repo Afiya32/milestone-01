@@ -1,0 +1,30 @@
+button{
+  text-align: center;
+  text-shadow: 5px;
+  border: 2px;
+  border-radius: 2px;
+  padding: 2px;
+  border-color: tomato;
+  box-shadow: 5px;
+  background-color: chocolate;
+}
+.body{height: 120px;
+width: 100%;}
+.footer{height: 420px;
+width: 100%;
+background: skyblue;}
+h3{text-align: center;
+color: hsl(328, 91%, 42%);}
+ol{
+color: purple;}
+ul{
+color: gold;}
+#food{text-align: center;text-shadow: 10px;
+color: rgb(210, 80, 9);}
+#list{
+  text-align: center;
+  color: yellowgreen;
+}
+#youtube{
+#last-pic{height: 100px;
+width: 100%;}
